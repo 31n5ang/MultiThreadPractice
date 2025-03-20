@@ -1,0 +1,7 @@
+hi there.
+Hello World.
+
+My name is minsang.
+
+This is Practice of Multi-thread!
+
